@@ -90,7 +90,7 @@ namespace Session1
             return dummy;
         }
 
-        static double Mark4()
+        public static double Mark4()
         {
             int n = 30;
             int count = 100000000;
